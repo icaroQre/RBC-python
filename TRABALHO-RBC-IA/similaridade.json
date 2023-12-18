@@ -1,0 +1,206 @@
+{
+    "area_damaged": {
+        "Areas baixas": 1,
+        "Espalhado": 2,
+        "Campo inteiro": 3,
+        "Areas superiores": 4,
+        "Desconhecido": 0
+    },
+    "canker_lesion": {
+        "Bronzeado a marrom": 1,
+        "Marrom": 2,
+        "Marrom escuro": 3,
+        "Desconhecido": 0
+    },
+    "crop_hist": {
+        "Dif-1 ano": 1,
+        "Mesmo-1 ano": 2,
+        "Mesmo-2 ano": 3,
+        "Mesmo-7 ano": 8,
+        "Desconhecido": 0
+    },
+    "date": {
+        "Janeiro": 1,
+        "Fevereiro": 2,
+        "Marco": 3,
+        "Abril": 4,
+        "Maio": 5,
+        "Junho": 6,
+        "Julho": 7,
+        "Agosto": 8,
+        "Setembro": 9,
+        "Outubro": 10,
+        "Novembro": 11,
+        "Dezembro": 12,
+        "Desconhecido": 0
+    },
+    "external_decay": {
+        "Ausente": 0,
+        "Firme-seco": 1,
+        "Desconhecido": 0
+    },
+    "fruit_spots": {
+        "Ausente": 1,
+        "Colorido": 2,
+        "Escuro": 3,
+        "Desconhecido": 0
+    },
+    "fruiting_bodies": {
+        "Ausente": 0,
+        "Presente": 1,
+        "Desconhecido": 0
+    },
+    "fruit_pods": {
+        "Normal": 1,
+        "Poucos presentes": 2,
+        "Doente": 3,
+        "Desconhecido": 0
+    },
+    "germination": {
+        "90-100%": 3,
+        "80-89%": 2,
+        "80-89 %": 2,
+        "Lt-80%": 1,
+        "Desconhecido": 0
+    },
+    "hail": {
+        "Sim": 1,
+        "Nao": 0,
+        "Desconhecido": 0
+    },
+    "int_discolor": {
+        "Nenhuma": 1,
+        "Marrom": 2,
+        "Preto": 3,
+        "Desconhecido": 0
+    },
+    "leaf_malf": {
+        "Ausente": 0,
+        "Presente": 1,
+        "Desconhecido": 0
+    },
+    "leaf_mild": {
+        "Ausente": 1,
+        "Superficial": 2,
+        "Abundante": 3,
+        "Desconhecido": 0
+    },
+    "leaf_shread": {
+        "Ausente": 0,
+        "Presente": 1,
+        "Desconhecido": 0
+    },
+    "leafspots_halo": {
+        "Ausente": 1,
+        "Sem Aereolado": 2,
+        "Com Aereolado": 3,
+        "Desconhecido": 0
+    },
+    "leafspot_size": {
+        "Tam menor 1/8": 1,
+        "Tam maior 1/8": 2,
+        "Desconhecido": 0
+    },
+    "leafspot_marg": {
+        "Sem marg": 1,
+        "Com marg": 2,
+        "Desconhecido": 0
+    },
+    "leaves": {
+        "Normal": 2,
+        "Anormal": 1,
+        "Desconhecido": 0
+    },
+    "lodging": {
+        "Sim": 1,
+        "Nao": 0,
+        "Desconhecido": 0
+    },
+    "mold_growth": {
+        "Ausente": 0,
+        "Presente": 1,
+        "Desconhecido": 0
+    },
+    "mycelium": {
+        "Ausente": 0,
+        "Presente": 1,
+        "Desconhecido": 0
+    },
+    "plant_growth": {
+        "Normal": 2,
+        "Anormal": 1,
+        "Desconhecido": 0
+    },
+    "plant_stand": {
+        "Normal": 1,
+        "Lt-normal": 2,
+        "Desconhecido": 0
+    },
+    "precip": {
+        "Gt-normal": 2,
+        "Lt-normal": 3,
+        "Normal": 1,
+        "Desconhecido": 0
+    },
+    "roots": {
+        "Normal": 1,
+        "Podre": 2,
+        "Cortadas-off": 3,
+        "Desconhecido": 0
+    },
+    "sclerotia": {
+        "Ausente": 0,
+        "Presente": 1,
+        "Desconhecido": 0
+    },
+    "seed": {
+        "Normal": 2,
+        "Anormal": 1,
+        "Desconhecido": 0
+    },
+    "seed_discolor": {
+        "Ausente": 0,
+        "Presente": 1,
+        "Desconhecido": 0
+    },
+    "seed_size": {
+        "Normal": 1,
+        "Lt-normal": 2,
+        "Desconhecido": 0
+    },
+    "seed_tmt": {
+        "Nenhuma": 1,
+        "Fungicida": 3,
+        "Outros": 2,
+        "Desconhecido": 0
+    },
+    "severity": {
+        "Leve": 1,
+        "Serio": 2,
+        "Muito serio": 3,
+        "Desconhecido": 0
+    },
+    "shriveling": {
+        "Ausente": 0,
+        "Presente": 1,
+        "Desconhecido": 0
+    },
+    "stem": {
+        "Normal": 2,
+        "Anormal": 1,
+        "Desconhecido": 0
+    },
+    "stem_cankers": {
+        "Ausente": 2,
+        "Abaixo do solo": 3,
+        "Acima do solo": 4,
+        "Acima do segundo": 1,
+        "Desconhecido": 0
+    },
+    "temp": {
+        "Lt-normal": 3,
+        "Normal": 1,
+        "Gt-normal": 2,
+        "Desconhecido": 0
+    }
+}
